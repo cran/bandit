@@ -1,0 +1,9 @@
+c9bb81ced3a28cb3d9bd541408727844 *DESCRIPTION
+8b54e5a89fbda3af5e077053d40bec76 *NAMESPACE
+95477ebfe08c38255c7529818d18d393 *R/best_binomial_bandit.R
+5ec07935482be78193a52e635c2b24fa *R/significance_analysis.R
+40ff5d0a5d5e3ec21ecb1bf8a29c84ad *R/summarize_metrics.R
+6fc7c41142fbf45f61757af06483ef92 *man/bandit-package.Rd
+58590fbfafff767b6c9617e7bc813fc1 *man/best_binomial_bandit.Rd
+1a7dd8b3318fa4746fe39b93faea3785 *man/significance_analysis.Rd
+57eb90fbce11e2819d569722a9d611a9 *man/summarize_metrics.Rd
