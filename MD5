@@ -1,12 +1,12 @@
-7cc9852e1429bc9ac62d5dc093b4bb5a *DESCRIPTION
+4c5d6e74120dafb1abb1c0e5a5733a48 *DESCRIPTION
 8b54e5a89fbda3af5e077053d40bec76 *NAMESPACE
 95477ebfe08c38255c7529818d18d393 *R/best_binomial_bandit.R
 9fa4c57a7e04e0c8178d1f20b439c692 *R/best_poisson_bandit.R
-d8c6fcd4c0d2ca2a5d5ef1080801bf26 *R/deseasonalized_trend.R
+ed76bd73efbb292af160b184f12983b7 *R/deseasonalized_trend.R
 37fc9faa238bc6e3d4feb11a4927c043 *R/distribution_estimate.R
 7871810dd37f9bbd175e35d13cec66a3 *R/significance_analysis.R
 76f8225df13bd5d3eb82449bd4fad3a4 *R/summarize_metrics.R
-bf11b37fc772e6447a20153aa6d9a5ff *man/bandit-package.Rd
+9b83980f49257c6fd5548ca2a8d9874b *man/bandit-package.Rd
 58590fbfafff767b6c9617e7bc813fc1 *man/best_binomial_bandit.Rd
 b156548907853c4f30af3da952f535da *man/best_poisson_bandit.Rd
 992d83a5218458137f569d036da9ba16 *man/deseasonalized_trend.Rd
