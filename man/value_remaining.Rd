@@ -16,7 +16,6 @@ have over the current best arm}
 
 \author{Thomas Lotze and Markus Loecher}
 
-\references{\url{https://support.google.com/analytics/answer/2846882?hl=en&topic=2844866&rd=1}}
 
 \examples{
 

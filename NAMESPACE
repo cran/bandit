@@ -1,3 +1,6 @@
 importFrom(gam, gam, s)
 importFrom(boot, boot, boot.ci)
 exportPattern("^[[:alpha:]]+")
+importFrom("stats", "dbeta", "dgamma", "integrate", "median", "pbeta",
+     "pgamma", "predict", "prop.test", "qbeta", "quantile",
+     "rbeta")

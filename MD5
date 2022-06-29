@@ -1,5 +1,5 @@
-28168de153e10bdde064a556485df9d2 *DESCRIPTION
-50d2ca34d5e5de476b5121991fd702ba *NAMESPACE
+9766cf1d4a74d52bb5b99226b0d6e9e4 *DESCRIPTION
+491183fc29f78a96d94d77620e75e63a *NAMESPACE
 e0f26a2abbad2ad07141927825ef03e8 *R/best_binomial_bandit.R
 dc4516f1ddc87f261e3ac09fdec606c7 *R/best_binomial_bandit_sim.R
 9fa4c57a7e04e0c8178d1f20b439c692 *R/best_poisson_bandit.R
@@ -20,4 +20,4 @@ b156548907853c4f30af3da952f535da *man/best_poisson_bandit.Rd
 4adf3e60c57328f31c3f90c703d99a33 *man/significance_analysis.Rd
 122bd26e7fd8add1cea6df7b8ee2b074 *man/sim_post.Rd
 792e29e65efce343218b0bc2cab4fde2 *man/summarize_metrics.Rd
-673eebe54b0fd162dc990ad04ce1824f *man/value_remaining.Rd
+59d7dcb893b5154953c24e4e025a0049 *man/value_remaining.Rd
